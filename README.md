@@ -42,3 +42,15 @@ now it can be imported
 import SearchBar from 'search_bar';
 ```
 
+## Class-Based Components
+
+### Functional Component
+
+```javascript
+const SearchBar = () => {
+  return <input />
+};
+```
+
+### Class Component
+
